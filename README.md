@@ -2,7 +2,7 @@
 
 visit web site:
     https://omorobot.gitbook.io/manual/product/omo-r1mini/ros
-
+    https://pinkwink.kr/1346
 # Gazebo world
 
 roslaunch omo_r1mini_gazebo omo_r1mini_empty_world.launch
