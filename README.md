@@ -4,7 +4,7 @@ visit web site 1:
 
     https://omorobot.gitbook.io/manual/product/omo-r1mini/ros
     
-visit web site 2:
+visit web site 2: ROS에서 odom 정보를 기초로 로봇에 위치 명령 인가하기
     
     https://pinkwink.kr/1346
     
